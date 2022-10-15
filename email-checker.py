@@ -45,7 +45,7 @@ else:
     # Checking the second part - after the '@':
     second_part = email_list[1].split('.')
     size_second_part = len(second_part)
-    if len(second_part) <= 1:                                                  # Not sure about this lenght
+    if len(second_part) <= 1:
         validation += 1
         print('Not a valid e-mal! Try it again. \n')
 
