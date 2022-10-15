@@ -11,8 +11,6 @@ print('')
 
 # Auxiliars:
 size = len(email)
-counter1 = 0
-counter2 = 0
 validation = 0
 email_list =[]
 
